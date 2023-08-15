@@ -1,0 +1,5 @@
+{{#user}
+Name: Yash Raj
+Skills: HTML, CSS, Javascript, Bootstrap, Tailwind CSS, GitHub, React JS (basic)
+Email: helloiamyashraj0405@gmail.com
+{{/user}}
